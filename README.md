@@ -22,3 +22,9 @@ After each round, the program will display the computer's choice and the user's 
 Conclusion
 
 In conclusion, this project will create a simple rock-paper-scissors game using Python programming language. The game will allow the user to play against the computer, keep track of scores across multiple rounds, and give the user the option to play multiple rounds. The game will serve as a good introduction to Python programming and demonstrate the use of conditional statements and loops.
+
+
+
+
+
+![Screenshot (250)](https://user-images.githubusercontent.com/112076252/229286728-a87e6bbc-1189-4cf2-ade4-b3aa42cddb1c.png)
